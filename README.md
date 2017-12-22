@@ -1,0 +1,1 @@
+收集docker bench security的扫描结果，并发送到指定的服务器上！
